@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumedha Das</h1>
 <h3 align="center">| CSE Undergrad | Machine Learning and Data Science Enthusiast |</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Idiotwhotriestocode/idiotwhotriestocode/blob/main/JXA0.gif" style="padding:30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idiotwhotriestocode&label=Profile%20views&color=0e75b6&style=flat" alt="idiotwhotriestocode" /> </p>
 
