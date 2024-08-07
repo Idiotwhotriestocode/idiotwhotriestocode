@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **React, Streamlit**
 
+- 👨‍💻 All of my projects are available at [https://portfoliosumedha-sumedha-das-projects.vercel.app/](https://portfoliosumedha-sumedha-das-projects.vercel.app/)
+
 - 📫 How to reach me **sumedhadas1234@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dUrcSxqdDhPiT5a3KvsduJfFK8Gx1kqu/view?usp=drive_link](https://drive.google.com/file/d/1dUrcSxqdDhPiT5a3KvsduJfFK8Gx1kqu/view?usp=drive_link)
