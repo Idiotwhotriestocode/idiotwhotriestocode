@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumedha31499590" target="blank"><img src="https://img.shields.io/twitter/follow/sumedha31499590?logo=twitter&style=for-the-badge" alt="sumedha31499590" /></a> </p>
 
-- 🌱 I’m currently learning **React, Streamlit**
+- 🌱 I’m currently learning **Networking using Python**
 
 - 👨‍💻 All of my projects are available at [https://portfoliosumedha-sumedha-das-projects.vercel.app/](https://portfoliosumedha-sumedha-das-projects.vercel.app/)
 
